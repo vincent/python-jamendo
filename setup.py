@@ -23,7 +23,7 @@ requires = [
 ]
 
 setup(
-    name='jamendo',
+    name='jamendo-api',
     version=jamendo.__version__,
     description='Python Jamendo API library.',
     long_description=open('README.md').read(),
